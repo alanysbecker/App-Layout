@@ -1,6 +1,6 @@
 # App Layout
 
-Bem-vindo ao Módulo 2, aqui está um Sistema desenvolvido como atividade relacionada a esse Módul do curso Desenvolvimento WEB.
+Bem-vindo ao Módulo 2, aqui está um Sistema desenvolvido como atividade relacionada a esse Módulo do curso Desenvolvimento WEB.
 
 ## Getting Started
 
